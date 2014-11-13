@@ -1,0 +1,1 @@
+Simple implementation of trie tree (algorithm simplified).
